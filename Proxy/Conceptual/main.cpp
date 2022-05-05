@@ -1,7 +1,7 @@
-﻿#include <iostream>
-#include "Subject.h"
+﻿#include "Subject.h"
 #include "RealSubject.h"
 #include "Proxy.h"
+#include <iostream>
 
 void ClientCode(const Subject& subject) {
 	// ...
